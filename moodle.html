@@ -1,0 +1,41 @@
+<html>
+<body>
+
+<h1>About Moodle</h1>
+<p>Moodle is a learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments. You can download the software onto your own web server or ask one of our knowledgeable Moodle Partners to assist you.
+Moodle is built by the Moodle project which is led and coordinated by Moodle HQ, which is financially supported by a network of over 80 Moodle Partner service companies worldwide. 
+</p>
+
+<p>HOW TO INSTALL MOODLE</P>
+<h1><b>Step 1: Install Ubuntu</b></h1>
+<p>sudo apt-get install vim</p>
+
+<h1>Step 2: Install Apache/MySQL/PHP</h1>
+<p>sudo apt install apache2 mysql-client mysql-server php libapache2-mod-php</p>
+
+<h1>Step 3: Install Additional Software</h1>
+<p>sudo apt install graphviz aspell ghostscript clamav php7.2-pspell php7.2-curl php7.2-gd php7.2-intl php7.2-mysql php7.2-xml php7.2-xmlrpc php7.2-ldap php7.2-zip php7.2-soap php7.2-mbstring</p>
+<p>sudo service apache2 restart</p>
+<p>sudo apt install git</p>
+
+<h1>Step 4: Download Moodle</h1>
+<p>cd /opt</p>
+<p>sudo git clone git://git.moodle.org/moodle.git</p>
+<p>cd moodle</p>
+<p>sudo git branch -a</p>
+<p>sudo git branch --track MOODLE_38_STABLE origin/MOODLE_38_STABLE</p>
+<p>sudo git checkout MOODLE_38_STABLE</p>
+
+<h1>Step 5: Copy local repository to /var/www/html/ </h1>
+<p>sudo cp -R /opt/moodle /var/www/html/</p>
+<p>sudo mkdir /var/moodledata</p>
+<p>sudo chown -R www-data /var/moodledata</p>
+<p>sudo chmod -R 777 /var/moodledata</p>
+<p>sudo chmod -R 0755 /var/www/html/moodle</p>
+
+<h1>Step 6: Setup MySQL Server</h1>
+<p>sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf</p>
+<p>sudo service mysql restart</p>
+<p>sudo mysql -u root -p </p></h2>
+</body>
+</html>
