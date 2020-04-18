@@ -104,17 +104,17 @@ history command
 Date format,Calendar format,DateTime format,Disk usage
 
 ### File Systems
-copy file to directory
-copy one file to another
-copy one directory to another
-move a file to a directory
+copy file to directory,
+copy one file to another,
+copy one directory to another,
+move a file to a directory,
 remove file,remove directory
 File permissions
 
 ### Filters
- Find string
- List files
- Redirect command
+ Find string,,
+ List files,
+ Redirect command,
 
 ## Unix continued
 16 Mar,2020
