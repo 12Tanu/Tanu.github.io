@@ -104,49 +104,49 @@ history command
 Date format,Calendar format,DateTime format,Disk usage
 
 ### File Systems
-#### copy file to directory
-#### copy one file to another
-#### copy one directory to another
-#### move a file to a directory
-#### remove file,remove directory
-#### File permissions
+copy file to directory
+copy one file to another
+copy one directory to another
+move a file to a directory
+remove file,remove directory
+File permissions
 
 ### Filters
-#### Find string
-#### List files
-#### Redirect command
+ Find string
+ List files
+ Redirect command
 
 ## Unix continued
 16 Mar,2020
 
-### VI editor
-### Bourne shell
+#### VI editor
+#### Bourne shell
 
 ## XML
 25 Mar,2020
 
-### Introduction to XML
-### DTD
+#### Introduction to XML
+#### DTD
 
 ## XML continued
 30 March,2020
 
-### XML Schema
-### Namespace
+#### XML Schema
+#### Namespace
 
 ## RDBMS
 14 Apr,2020
 
-### Data definition langauage - create,drop,alter
-### Data manipulation language -insert,delete,update
-### select statement
+#### Data definition langauage - create,drop,alter
+#### Data manipulation language -insert,delete,update
+#### select statement
 
 ## RDBMS continued
 17 Apr,2020
 
-### Function - scalar and aggregate
-### Joins and subquery
-### Data control language and data objects
+#### Function - scalar and aggregate
+#### Joins and subquery
+#### Data control language and data objects
 
 
 
