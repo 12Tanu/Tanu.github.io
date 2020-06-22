@@ -148,5 +148,86 @@ File permissions
 #### Joins and subquery
 #### Data control language and data objects
 
+## Python
+18 Apr,2020
 
+#### Introduction to Python
+#### Using the interactive python shell
+#### Operators and expressions
 
+## Python continued
+19 Apr,2020
+
+#### Data types,loops
+#### Functions,file handling,exception handling
+
+## Python continued
+20 Apr,2020
+
+#### Modules and packages
+
+## Machine learning
+21 Apr,2020
+
+#### Applications of machine learning,Types of learning
+
+## Machine learning
+22 Apr,2020
+
+#### Dimensionality reduction,Natural Language Processing
+#### Neural Networks
+
+## Machine learning
+23 Apr,2020
+
+#### Data and it's processing
+#### Supervised Learning
+
+## Machine learning
+24 Apr,2020
+
+#### Linear Regression
+#### Naive Bayes
+
+## Machine learning
+25 Apr,2020
+
+#### SVM,Decision tree
+#### Random forest
+
+## Machine learning
+26 Apr,2020
+
+#### Unsupervised learning
+#### Reinforcement learning
+
+## Machine learning
+27 Apr,2020
+
+#### Convolutional Neural Networks
+
+## Machine learning
+28 Apr,2020
+
+#### Recurrent Neural Networks
+
+## Project 
+1 May,2020
+
+#### Installation of anaconda
+
+## Project 
+2 May,2020
+
+#### Heart disease prediction using machine learning
+
+## Project continued
+3 May-31 May,2020
+
+## Project Report 
+1 Jun-20 Jun,2020
+
+#### Synopsis,Mide term project,Final report
+
+## Project presentation
+21 Jun,2020
